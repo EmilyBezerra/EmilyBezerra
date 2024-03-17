@@ -8,18 +8,25 @@
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sql/sql-original.svg" alt="SQL" width="40" height="40">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40">
 </div>
 
 ---
 
 ### Minha Atividade no GitHub:
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=EmilyBezerra&show_icons=true&theme=dark&bg_color=0D1117)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=EmilyBezerra&show_icons=true&theme=dark)
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=EmilyBezerra&theme=dark&background=0D1117)
+<!-- Contribuições no último ano com estilo de Pac-Man -->
+### Contribuições no último ano:
+
+![Snake animation](https://github.com/SEU_USUARIO/SEU_REPOSITORIO/blob/master/github-contribution-grid-snake.svg)
 
 ---
 
