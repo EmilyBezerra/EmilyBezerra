@@ -11,11 +11,9 @@
 
 ---
 
-### Sobre Mim:
+### Sobre Mim
 
-Estou cursando **Engenharia de Software**, onde desenvolvo um sólido embasamento técnico e aprimoro minhas habilidades em tecnologia. Atualmente, trabalho como estagiária em TI, integrando uma equipe que desenvolve um **projeto ERP multi-tenant**. 
-
-Minha atuação envolve o uso de tecnologias modernas, como **.NET 8, Angular 18+ e PostgreSQL**, todas implantadas em serviços **Azure**, incluindo DevOps, Functions e App Services. Também contribuo na **manutenção e desenvolvimento de sistemas internos e aplicações web**, além de gerenciar tarefas e organizar fluxos de trabalho da equipe no **ClickUp**, ajudando a melhorar processos e sistemas continuamente.
+**Cursando Engenharia de Software** e estagiária em **Tecnologia da Informação**, atuando principalmente em um projeto **ERP multi-tenant**, onde trabalho com **.NET 8**, **SignalR**, **Angular 18+** e **PostgreSQL**, implantado em serviços **Azure**, como **DevOps**, **Functions** e **App Services**. Auxilio na **manutenção e desenvolvimento de sistemas internos** e **aplicações web**, além de gerenciar tarefas e organizar fluxos de trabalho da equipe no **ClickUp**, contribuindo para melhorias contínuas nos processos e sistemas da empresa.
 
 ---
 
