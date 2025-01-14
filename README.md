@@ -33,9 +33,6 @@
 
 ---
 
-
----
-
 ### Entre em Contato:
 
 <div align="left">
