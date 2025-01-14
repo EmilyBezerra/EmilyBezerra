@@ -33,11 +33,6 @@
 
 ---
 
-### Minha Atividade no GitHub:
-
-<div align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EmilyBezerra&theme=dark&background=000000" alt="Streak no GitHub" width="400px">
-</div>
 
 ---
 
